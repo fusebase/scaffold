@@ -1,4 +1,4 @@
-/* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
+/* Fusebase scaffold */
 /* zurb.com */
 /* humanstxt.org */
 

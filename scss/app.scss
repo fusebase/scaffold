@@ -38,3 +38,27 @@
 //   "foundation/components/type",
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
+
+.content {
+  padding-top: rem-calc(20);
+}
+
+.mejs-container {
+  width: 100% !important;
+}
+
+#main {
+  padding-top: rem-calc(20);
+}
+
+#footer {
+  margin-top: rem-calc(20);
+  padding-bottom: rem-calc(10);
+  background-color: $vapor;
+  .content {
+    p {
+      color: $monsoon;
+      font-size: rem-calc(11);
+    }
+  }
+}

@@ -5535,8 +5535,19 @@ th.hide-for-touch {
   th.show-for-print {
     display: table-cell !important; } }
 
+.content {
+  padding-top: 1.25rem; }
+
 .mejs-container {
   width: 100% !important; }
 
 #main {
-  padding-top: 60px; }
+  padding-top: 1.25rem; }
+
+#footer {
+  margin-top: 1.25rem;
+  padding-bottom: 0.625rem;
+  background-color: #F6F6F6; }
+  #footer .content p {
+    color: #777777;
+    font-size: 0.6875rem; }
